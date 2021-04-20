@@ -1,0 +1,8 @@
+::::Marksheet ::::
+Student Name:Student_27
+Roll_No:27
+Maths:84
+Science:56
+Social_Science:47
+EVS:35
+Music:76

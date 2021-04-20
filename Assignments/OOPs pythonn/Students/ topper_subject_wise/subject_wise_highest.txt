@@ -1,0 +1,29 @@
+
+SUBJECT NAME:Maths
+MARKS:100
+Student Names:
+Student_5
+Student_28
+
+SUBJECT NAME:Science
+MARKS:100
+Student Names:
+Student_28
+
+SUBJECT NAME:Social_Science
+MARKS:100
+Student Names:
+Student_8
+Student_44
+
+SUBJECT NAME:EVS
+MARKS:100
+Student Names:
+Student_9
+Student_19
+Student_31
+
+SUBJECT NAME:Music
+MARKS:99
+Student Names:
+Student_18

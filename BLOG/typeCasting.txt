@@ -1,0 +1,94 @@
+Type Casting 
+
+
+PRE-REQUISTE CONCEPTS :
+DATA TYPES
+Every thing is python is object orirented  
+
+
+What Exactly is Type Casting?
+
+Type Casting simply means converting one data type to another .
+In laymenn terms  we can say that converting one form of data into another.
+In python there are two types of conversion.
+
+for instance:
+
+
+
+
+Explaination:
+
+Why we need it?
+
+As a programmer we come across many real life problems that requires different kinds of data to be handled 
+so in that case if we dont perform conversion that certainly would cause hinderance.
+
+for instance:
+
+
+
+
+Explaination:
+
+Types: 
+
+1.Implicit conversion
+2.Explicit conversion
+
+
+Implicit conversion:
+
+In this type of conversion the task of conversion in handled my python itself.
+As there is a concept known as norrowing and widening in data types ,so it follows that heirachy 
+
+
+
+for instance:
+
+
+
+
+
+Explaination:
+
+
+
+
+
+
+Explicit conversion:
+The name itself explains that the conversion that can be user specific.
+Imagine a scenario :
+Where we need to extract prices of different grocery items but the problem is that the content is in text form 
+so in order  to extract its price we need  convert the desire data into float(like 22.0).
+Explicit conversion comes for the rescue.
+
+for instance:
+
+
+
+
+Explaination:
+
+Basic Types and their functionalities:
+
+
+In python basic data types are integers ,strings and floats.
+Lets us we first  discuss about integers ,
+These store numeric type data like 1,3 etc.
+
+
+for instance:
+
+
+
+
+Explaination:
+
+Integers:In python Integers are referred using "int" 
+
+
+
+
+

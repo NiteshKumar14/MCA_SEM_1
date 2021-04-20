@@ -1,0 +1,7 @@
+
+
+Statement 1:  marksList[i]=int(input("Enter marks for student "+str(i+1)+":")) 
+Statement 2:   (marks[i]<0 or marks[i] >100)
+Statement 3: not validateMarks(marks1) or not  validateMarks(marks2)  
+Statement 4: for i in range(len(marks1)): 
+Statement 5: TotalMarks.append(marks1[i]+marks2[i])

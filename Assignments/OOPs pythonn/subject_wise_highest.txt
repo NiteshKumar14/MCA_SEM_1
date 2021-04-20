@@ -1,0 +1,25 @@
+
+SUBJECT NAME:Maths
+MARKS:72
+Student Names:
+Student_3
+
+SUBJECT NAME:Science
+MARKS:92
+Student Names:
+Student_4
+
+SUBJECT NAME:Social_Science
+MARKS:99
+Student Names:
+Student_3
+
+SUBJECT NAME:EVS
+MARKS:96
+Student Names:
+Student_4
+
+SUBJECT NAME:Music
+MARKS:99
+Student Names:
+Student_2

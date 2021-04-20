@@ -1,0 +1,17 @@
+temp
+ for rows in range(self.row):
+            for cols in range(self.col)
+            
+                if rows ==0 :
+                    if cols==0:
+                        print("|",end='')
+                    if self.coloumns-cols==1:
+                        print("|")    
+    
+                if cols==0 :
+                    if(row==0)
+                        print("|")
+                             
+                    if self.coloumn-cols==1:
+                        print("\t|")
+                        print(" __",end='')                    

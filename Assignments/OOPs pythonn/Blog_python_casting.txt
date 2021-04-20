@@ -1,0 +1,23 @@
+1.What is Casting 
+2.why we need it ?
+
+
+"""
+Every thing in python is object oriented
+"""
+3.types of type Casting.
+4.Explicit and Implicit
+code snippet explaining the graph like int + float =float and all
+5.narrow and binding graph
+6.int(object,base=10)
+ord(),chr(),hex(),bin()
+
+7.float()
+8.str(object,blah blash )
+encoding and errors 
+complex()
+Containers like 
+list()
+dict()
+tuple()
+different constructors

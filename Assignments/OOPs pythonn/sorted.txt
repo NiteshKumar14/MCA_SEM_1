@@ -1,0 +1,8 @@
+Cuboid 6 4 5
+Cone 3 6
+Cone 4 7
+Cuboid 4 3 5
+Circle 3
+Cone 1 6
+Cuboid 6 5 4
+Cuboid 7 4 5
